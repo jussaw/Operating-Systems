@@ -1,0 +1,477 @@
+=========================NONE=========================
+-------------------------FCFS-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.644418   ART=3.047076  CBT = 0.972926  T=0.987763 AWT=15.506297
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.644418   ART=3.047076  CBT = 0.971351  T=0.987758 AWT=12.435336 AWTJQ=0.000958
+--------------------------------------------------
+
+
+-------------------------SRTF-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.173769   ART=1.412056  CBT = 0.972458  T=1.048133 AWT=2.097971
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.173769   ART=1.412055  CBT = 0.971077  T=1.048127 AWT=2.097974 AWTJQ=0.001010
+--------------------------------------------------
+
+
+-------------------------RR10-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.234305   ART=0.099958  CBT = 0.969499  T=1.013898 AWT=9.059157
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.234305   ART=0.099957  CBT = 0.969449  T=1.013891 AWT=8.952775 AWTJQ=0.000984
+--------------------------------------------------
+
+
+-------------------------RR20-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.198866   ART=0.190995  CBT = 0.971850  T=1.013922 AWT=9.006984
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.198866   ART=0.190994  CBT = 0.971757  T=1.013915 AWT=8.802644 AWTJQ=0.000981
+--------------------------------------------------
+
+
+-------------------------RR50-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.902126   ART=0.462383  CBT = 0.977558  T=1.013821 AWT=9.640874
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.902126   ART=0.462383  CBT = 0.977336  T=1.013814 AWT=9.153792 AWTJQ=0.000997
+--------------------------------------------------
+
+
+-------------------------RR250-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.648757   ART=1.852088  CBT = 0.981404  T=0.987207 AWT=12.923943
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.648757   ART=1.852088  CBT = 0.980493  T=0.987200 AWT=10.955748 AWTJQ=0.001028
+--------------------------------------------------
+
+
+-------------------------RR500-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.375507   ART=2.616494  CBT = 0.981492  T=0.983047 AWT=14.383299
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.375508   ART=2.616493  CBT = 0.980581  T=0.983040 AWT=11.665401 AWTJQ=0.001011
+--------------------------------------------------
+==================================================
+
+
+
+
+
+=========================OMAP=========================
+-------------------------FCFS-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.194105   ART=3.413349  CBT = 0.972665  T=0.987498 AWT=14.492379
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.194105   ART=3.413348  CBT = 0.971090  T=0.987492 AWT=11.608909 AWTJQ=0.540231
+--------------------------------------------------
+
+
+-------------------------SRTF-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.174195   ART=1.412900  CBT = 0.972285  T=1.047947 AWT=2.098592
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.174195   ART=1.412899  CBT = 0.970905  T=1.047942 AWT=2.098596 AWTJQ=0.001216
+--------------------------------------------------
+
+
+-------------------------RR10-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.601934   ART=0.104473  CBT = 0.966650  T=1.013804 AWT=9.420852
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.601935   ART=0.104472  CBT = 0.966599  T=1.013796 AWT=9.309839 AWTJQ=0.001214
+--------------------------------------------------
+
+
+-------------------------RR20-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.330656   ART=0.192901  CBT = 0.970492  T=1.013719 AWT=9.136470
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.330656   ART=0.192900  CBT = 0.970398  T=1.013710 AWT=8.929999 AWTJQ=0.001190
+--------------------------------------------------
+
+
+-------------------------RR50-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.945003   ART=0.463817  CBT = 0.976961  T=1.013649 AWT=9.680321
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.945004   ART=0.463816  CBT = 0.976738  T=1.013641 AWT=9.185956 AWTJQ=0.001173
+--------------------------------------------------
+
+
+-------------------------RR250-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.520047   ART=1.983742  CBT = 0.981139  T=0.986941 AWT=12.634039
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.520048   ART=1.983741  CBT = 0.980103  T=0.986935 AWT=10.720792 AWTJQ=0.162178
+--------------------------------------------------
+
+
+
+-------------------------RR500-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.139638   ART=2.827538  CBT = 0.981269  T=0.983216 AWT=13.835136
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.139638   ART=2.827537  CBT = 0.980874  T=0.983211 AWT=11.219224 AWTJQ=0.299752
+--------------------------------------------------
+==================================================
+
+
+
+
+
+=========================PAGING=========================
+-------------------------FCFS-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.156442   ART=3.439814  CBT = 0.972839  T=0.987675 AWT=14.420757
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.156442   ART=3.439813  CBT = 0.971265  T=0.987670 AWT=11.567528 AWTJQ=0.571889
+--------------------------------------------------
+
+
+-------------------------SRTF-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.173560   ART=1.412368  CBT = 0.972418  T=1.048090 AWT=2.098342
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.173560   ART=1.412368  CBT = 0.971038  T=1.048085 AWT=2.098345 AWTJQ=0.001053
+--------------------------------------------------
+
+
+-------------------------RR10-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.263786   ART=0.100318  CBT = 0.969320  T=1.013841 AWT=9.087858
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.263786   ART=0.100318  CBT = 0.969268  T=1.013832 AWT=8.981197 AWTJQ=0.001062
+--------------------------------------------------
+
+
+-------------------------RR20-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.228186   ART=0.192112  CBT = 0.971704  T=1.013860 AWT=9.036295
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.228186   ART=0.192112  CBT = 0.971609  T=1.013850 AWT=8.831831 AWTJQ=0.001026
+--------------------------------------------------
+
+
+-------------------------RR50-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.930090   ART=0.462311  CBT = 0.977527  T=1.013788 AWT=9.668582
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.930090   ART=0.462311  CBT = 0.977304  T=1.013781 AWT=9.177220 AWTJQ=0.001016
+--------------------------------------------------
+
+
+-------------------------RR250-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.524188   ART=1.975541  CBT = 0.981276  T=0.987079 AWT=12.633170
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.524188   ART=1.975541  CBT = 0.980240  T=0.987072 AWT=10.712224 AWTJQ=0.161976
+--------------------------------------------------
+
+
+-------------------------RR500-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.165181   ART=2.859197  CBT = 0.981358  T=0.983305 AWT=13.817944
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.165181   ART=2.859196  CBT = 0.980961  T=0.983298 AWT=11.195276 AWTJQ=0.337795
+--------------------------------------------------
+==================================================
+
+
+
+
+
+=========================BESTFIT=========================
+-------------------------FCFS-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.195941   ART=3.416202  CBT = 0.972708  T=0.987542 AWT=14.494463
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.195941   ART=3.416202  CBT = 0.971134  T=0.987536 AWT=11.611059 AWTJQ=0.540072
+--------------------------------------------------
+
+
+-------------------------SRTF-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.175159   ART=1.412669  CBT = 0.972271  T=1.047931 AWT=2.101571
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.175159   ART=1.412669  CBT = 0.970769  T=1.047795 AWT=2.101575 AWTJQ=0.001158
+--------------------------------------------------
+
+
+-------------------------RR10-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.498472   ART=0.102769  CBT = 0.968188  T=1.013834 AWT=9.319483
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.498472   ART=0.102769  CBT = 0.968138  T=1.013827 AWT=9.209833 AWTJQ=0.001146
+--------------------------------------------------
+
+
+-------------------------RR20-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.269414   ART=0.193302  CBT = 0.971068  T=1.013779 AWT=9.075250
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.269414   ART=0.193301  CBT = 0.970975  T=1.013773 AWT=8.870048 AWTJQ=0.001150
+--------------------------------------------------
+
+
+-------------------------RR50-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.920185   ART=0.461707  CBT = 0.977173  T=1.013645 AWT=9.658713
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.920185   ART=0.461707  CBT = 0.976672  T=1.013349 AWT=9.167934 AWTJQ=0.001137
+--------------------------------------------------
+
+
+-------------------------RR250-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.501002   ART=1.978347  CBT = 0.981246  T=0.987048 AWT=12.611675
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.501003   ART=1.978346  CBT = 0.980210  T=0.987043 AWT=10.695652 AWTJQ=0.162122
+--------------------------------------------------
+
+
+
+-------------------------RR500-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.140112   ART=2.826067  CBT = 0.981373  T=0.983321 AWT=13.830176
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.140112   ART=2.826067  CBT = 0.980976  T=0.983313 AWT=11.213256 AWTJQ=0.299651
+--------------------------------------------------
+==================================================
+
+
+
+
+
+=========================WORSTFIT=========================
+-------------------------FCFS-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.202673   ART=3.418531  CBT = 0.972605  T=0.987437 AWT=14.501205
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 1, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 229
+ATAT=17.202674   ART=3.418530  CBT = 0.971031  T=0.987432 AWT=11.615963 AWTJQ=0.540186
+--------------------------------------------------
+
+
+-------------------------SRTF-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.171783   ART=1.424428  CBT = 0.972210  T=1.047866 AWT=2.103690
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 2, Quantum = 0.005000   Show = 1
+Number of Completed Processes = 243
+ATAT=4.171783   ART=1.424427  CBT = 0.970829  T=1.047860 AWT=2.103694 AWTJQ=0.001200
+--------------------------------------------------
+
+
+-------------------------RR10-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.675923   ART=0.104906  CBT = 0.965765  T=1.013736 AWT=9.493463
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.010000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.675923   ART=0.104905  CBT = 0.965710  T=1.013723 AWT=9.381994 AWTJQ=0.001279
+--------------------------------------------------
+
+
+-------------------------RR20-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.421702   ART=0.195186  CBT = 0.969744  T=1.013770 AWT=9.225912
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.020000   Show = 1
+Number of Completed Processes = 235
+ATAT=10.421702   ART=0.195185  CBT = 0.969649  T=1.013760 AWT=9.016386 AWTJQ=0.001209
+--------------------------------------------------
+
+
+-------------------------RR50-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=11.022695   ART=0.468525  CBT = 0.976680  T=1.013581 AWT=9.759722
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.050000   Show = 1
+Number of Completed Processes = 235
+ATAT=11.022695   ART=0.468525  CBT = 0.976457  T=1.013574 AWT=9.263185 AWTJQ=0.001207
+--------------------------------------------------
+
+
+-------------------------RR250-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.535063   ART=1.991034  CBT = 0.981098  T=0.987809 AWT=12.646291
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.250000   Show = 1
+Number of Completed Processes = 229
+ATAT=14.535063   ART=1.991033  CBT = 0.980795  T=0.987802 AWT=10.728982 AWTJQ=0.167215
+--------------------------------------------------
+
+
+-------------------------RR500-------------------------
+********* Behind Thee Scenes Numbers *********************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.156719   ART=2.841878  CBT = 0.981242  T=0.983187 AWT=13.860330
+
+********* Processes Managemenent Numbers ******************************
+Policy Number = 3, Quantum = 0.500000   Show = 1
+Number of Completed Processes = 228
+ATAT=16.156719   ART=2.841877  CBT = 0.979554  T=0.982484 AWT=11.228463 AWTJQ=0.299688
+--------------------------------------------------
+==================================================
